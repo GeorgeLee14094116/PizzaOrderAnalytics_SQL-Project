@@ -1,10 +1,10 @@
-**# PizzaOrderAnalytics**
+# PizzaOrderAnalytics
 ## SQLProject
 ### Power BI Dashboard: https://www.novypro.com/project/an-in-depth-analysis-of-pizza-sales-trends
 
-**## PROBLEM STATEMENT: KPI ANALYSIS**
+## PROBLEM STATEMENT: KPI ANALYSIS
 
-### Objective: Analyze key indicators in our pizza sales data to derive insights into business performance.##
+### Objective: Analyze key indicators in our pizza sales data to derive insights into business performance.
 
 1. Total Revenue:
 Definition: The sum of the total price of all pizza orders.
@@ -21,7 +21,7 @@ Definition: The total number of orders placed.
 5. Average Pizzas Per Order:
 Definition: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
-**## PROBLEM STATEMENT: CHARTS REQUIREMENT**
+## PROBLEM STATEMENT: CHARTS REQUIREMENT
 
 ### Objective: Visualize pizza sales data to gain insights and understand key trends.
 
